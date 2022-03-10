@@ -5,5 +5,4 @@
 - 📫 How to reach me: Reach out to me directly through my <a href="https://www.instagram.com/junicotandiago21/">Instagram</a> or <a href="#">Twitter</a>
 - 😄 Pronouns: he/him.
 
-<h2>Github Stats</h2>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junicotandiago198&theme=radical)
