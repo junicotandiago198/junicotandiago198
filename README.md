@@ -4,3 +4,5 @@
 - 👯  I’m looking to collaborate on any open source projects related to PHP, Laravel and Codeigniter (Laravel preferrable).
 - 📫 How to reach me: Reach out to me directly through my <a href="https://www.instagram.com/junicotandiago21/">Instagram</a> or <a href="#">Twitter</a>
 - 😄 Pronouns: he/him.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=junicotandiago198&theme=radical)
