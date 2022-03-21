@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **any open source projects related to PHP, Laravel and Codeigniter (Laravel preferrable).**
 
-- 💬 Ask me about **Php Native, Codeigniter,Laravel**
+- 💬 Ask me about **PHP Native, Codeigniter, Laravel**
 
 - 📫 How to reach me **Reach out to me directly through my <a href="https://www.instagram.com/junicotandiago21/">Instagram</a> or <a href="#">Twitter</a>**
 
