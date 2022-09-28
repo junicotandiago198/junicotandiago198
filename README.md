@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **interested in website development specifically for the backend**
 
-- 🌱 I’m currently learning **Github Actions, Tailwind CSS & Vue Js.**
+- 🌱 I’m currently learning **Github Actions, Laravel & Vue Js.**
 
 - 👯 I’m looking to collaborate on **any open source projects related to PHP, Laravel and Codeigniter (Laravel preferrable).**
 
