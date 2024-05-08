@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Junico Tandiago</h1>
 <h3 align="center">Junior Web Developer</h3>
 
-## Coding Activity
-<a href="https://github.com/junicotandiago198"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=junicotandiago198&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
 
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
@@ -37,3 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junicotandiago198&show_icons=true&locale=en" alt="junicotandiago198" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junicotandiago198&" alt="junicotandiago198" /></p>
+
+
+## Coding Activity
+<a href="https://github.com/junicotandiago198"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=junicotandiago198&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
