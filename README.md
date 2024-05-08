@@ -3,7 +3,7 @@
 <h3 align="center">Junior Web Developer</h3>
 
 [![wakatime](https://wakatime.com/badge/user/018ebcf9-dbcb-4d07-8ec6-270db1253db4.svg)](https://wakatime.com/@018ebcf9-dbcb-4d07-8ec6-270db1253db4)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=junicotandiago198&label=Profile%20views&color=0e75b6&style=flat" alt="junicotandiago198" /> </p>
+![](https://komarev.com/ghpvc/?username=junicotandiago198)
 
 ## Coding Activity
 <a href="https://github.com/junicotandiago198"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=junicotandiago198&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
