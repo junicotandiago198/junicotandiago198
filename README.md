@@ -3,7 +3,7 @@
 <h3 align="center">Junior Web Developer</h3>
 
 ## Coding Activity
-<a href="https://github.com/erizonade"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=junicotandiago198&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
+<a href="https://github.com/junicotandiago198"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=junicotandiago198&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
 
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
